@@ -1,0 +1,620 @@
+{
+  "groups": [
+    "全部",
+    "赫哲族",
+    "鄂伦春族",
+    "达斡尔族",
+    "蒙古族",
+    "满族",
+    "中东铁路"
+  ],
+  "motifTypes": [
+    "全部",
+    "烟袋花",
+    "衣物袋花",
+    "鞋花",
+    "蝶形花",
+    "几何花",
+    "桦皮盒纹",
+    "鱼皮服饰",
+    "刺绣",
+    "帽饰",
+    "建筑装饰"
+  ],
+  "patterns": [
+    {
+      "id": "BFJ-HZ-306A",
+      "code": "BFJ-HZ-306A",
+      "name": "烟袋花样（一）",
+      "group": "赫哲族",
+      "type": "烟袋花",
+      "region": "松花江下游",
+      "period": "历史调查图版",
+      "image": "/static/frontend/archive/hezhen-fig306-a.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:NLC511-09001452-67054_%E6%9D%BE%E8%8A%B1%E6%B1%9F%E4%B8%8B%E6%B8%B8%E7%9A%84%E8%B5%AB%E5%93%B2%E6%97%8F%C2%B7%E4%B8%8A%E5%86%8A.pdf",
+      "source": "凌纯声《松花江下游的赫哲族》上册，公共领域扫描，Wikimedia Commons，图306，PDF影像第439页",
+      "license": "Public domain",
+      "figure": "图306",
+      "description": "原书图306中的烟袋花样之一，黑底白色卷草纹。",
+      "context": "该图直接来自原书扫描，未由现代设计者重新创作。档案以原图版形态保存，图中线条、结构和黑白关系均与扫描原件一致。",
+      "tags": "烟袋花 卷草 器物",
+      "palette": [
+        "#111111",
+        "#f5f5f2",
+        "#8c2f25",
+        "#24483a"
+      ]
+    },
+    {
+      "id": "BFJ-HZ-306B",
+      "code": "BFJ-HZ-306B",
+      "name": "烟袋花样（二）",
+      "group": "赫哲族",
+      "type": "烟袋花",
+      "region": "松花江下游",
+      "period": "历史调查图版",
+      "image": "/static/frontend/archive/hezhen-fig306-b.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:NLC511-09001452-67054_%E6%9D%BE%E8%8A%B1%E6%B1%9F%E4%B8%8B%E6%B8%B8%E7%9A%84%E8%B5%AB%E5%93%B2%E6%97%8F%C2%B7%E4%B8%8A%E5%86%8A.pdf",
+      "source": "凌纯声《松花江下游的赫哲族》上册，公共领域扫描，Wikimedia Commons，图306，PDF影像第439页",
+      "license": "Public domain",
+      "figure": "图306",
+      "description": "原书图306中的烟袋花样之二，卷草纹围绕器形展开。",
+      "context": "该图直接来自原书扫描，未由现代设计者重新创作。档案以原图版形态保存，图中线条、结构和黑白关系均与扫描原件一致。",
+      "tags": "烟袋花 卷草 器物",
+      "palette": [
+        "#111111",
+        "#f5f5f2",
+        "#8c2f25",
+        "#24483a"
+      ]
+    },
+    {
+      "id": "BFJ-HZ-309A",
+      "code": "BFJ-HZ-309A",
+      "name": "衣物袋花样",
+      "group": "赫哲族",
+      "type": "衣物袋花",
+      "region": "松花江下游",
+      "period": "历史调查图版",
+      "image": "/static/frontend/archive/hezhen-fig309-a.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:NLC511-09001452-67054_%E6%9D%BE%E8%8A%B1%E6%B1%9F%E4%B8%8B%E6%B8%B8%E7%9A%84%E8%B5%AB%E5%93%B2%E6%97%8F%C2%B7%E4%B8%8A%E5%86%8A.pdf",
+      "source": "凌纯声《松花江下游的赫哲族》上册，公共领域扫描，Wikimedia Commons，图309，PDF影像第441页",
+      "license": "Public domain",
+      "figure": "图309",
+      "description": "原书图309中的衣物袋花样，白色卷草与蝶形纹样。",
+      "context": "该图直接来自原书扫描，未由现代设计者重新创作。档案以原图版形态保存，图中线条、结构和黑白关系均与扫描原件一致。",
+      "tags": "衣物袋 卷草 蝶纹",
+      "palette": [
+        "#111111",
+        "#f5f5f2",
+        "#8c2f25",
+        "#24483a"
+      ]
+    },
+    {
+      "id": "BFJ-HZ-309B",
+      "code": "BFJ-HZ-309B",
+      "name": "衣物袋缘饰",
+      "group": "赫哲族",
+      "type": "衣物袋花",
+      "region": "松花江下游",
+      "period": "历史调查图版",
+      "image": "/static/frontend/archive/hezhen-fig309-b.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:NLC511-09001452-67054_%E6%9D%BE%E8%8A%B1%E6%B1%9F%E4%B8%8B%E6%B8%B8%E7%9A%84%E8%B5%AB%E5%93%B2%E6%97%8F%C2%B7%E4%B8%8A%E5%86%8A.pdf",
+      "source": "凌纯声《松花江下游的赫哲族》上册，公共领域扫描，Wikimedia Commons，图309，PDF影像第441页",
+      "license": "Public domain",
+      "figure": "图309",
+      "description": "原书图309中的衣物袋缘饰结构，采用对称卷草纹。",
+      "context": "该图直接来自原书扫描，未由现代设计者重新创作。档案以原图版形态保存，图中线条、结构和黑白关系均与扫描原件一致。",
+      "tags": "衣物袋 缘饰 卷草",
+      "palette": [
+        "#111111",
+        "#f5f5f2",
+        "#8c2f25",
+        "#24483a"
+      ]
+    },
+    {
+      "id": "BFJ-HZ-310A",
+      "code": "BFJ-HZ-310A",
+      "name": "鞋上花样（一）",
+      "group": "赫哲族",
+      "type": "鞋花",
+      "region": "松花江下游",
+      "period": "历史调查图版",
+      "image": "/static/frontend/archive/hezhen-fig310-a.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:NLC511-09001452-67054_%E6%9D%BE%E8%8A%B1%E6%B1%9F%E4%B8%8B%E6%B8%B8%E7%9A%84%E8%B5%AB%E5%93%B2%E6%97%8F%C2%B7%E4%B8%8A%E5%86%8A.pdf",
+      "source": "凌纯声《松花江下游的赫哲族》上册，公共领域扫描，Wikimedia Commons，图310，PDF影像第441页",
+      "license": "Public domain",
+      "figure": "图310",
+      "description": "原书图310中的鞋上花样之一，卷草沿鞋面轮廓展开。",
+      "context": "该图直接来自原书扫描，未由现代设计者重新创作。档案以原图版形态保存，图中线条、结构和黑白关系均与扫描原件一致。",
+      "tags": "鞋花 卷草 服饰",
+      "palette": [
+        "#111111",
+        "#f5f5f2",
+        "#8c2f25",
+        "#24483a"
+      ]
+    },
+    {
+      "id": "BFJ-HZ-310B",
+      "code": "BFJ-HZ-310B",
+      "name": "鞋上花样（二）",
+      "group": "赫哲族",
+      "type": "鞋花",
+      "region": "松花江下游",
+      "period": "历史调查图版",
+      "image": "/static/frontend/archive/hezhen-fig310-b.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:NLC511-09001452-67054_%E6%9D%BE%E8%8A%B1%E6%B1%9F%E4%B8%8B%E6%B8%B8%E7%9A%84%E8%B5%AB%E5%93%B2%E6%97%8F%C2%B7%E4%B8%8A%E5%86%8A.pdf",
+      "source": "凌纯声《松花江下游的赫哲族》上册，公共领域扫描，Wikimedia Commons，图310，PDF影像第441页",
+      "license": "Public domain",
+      "figure": "图310",
+      "description": "原书图310中的鞋上花样之二，卷草沿鞋面轮廓展开。",
+      "context": "该图直接来自原书扫描，未由现代设计者重新创作。档案以原图版形态保存，图中线条、结构和黑白关系均与扫描原件一致。",
+      "tags": "鞋花 卷草 服饰",
+      "palette": [
+        "#111111",
+        "#f5f5f2",
+        "#8c2f25",
+        "#24483a"
+      ]
+    },
+    {
+      "id": "BFJ-HZ-313",
+      "code": "BFJ-HZ-313",
+      "name": "蝶形花样（一）",
+      "group": "赫哲族",
+      "type": "蝶形花",
+      "region": "松花江下游",
+      "period": "历史调查图版",
+      "image": "/static/frontend/archive/hezhen-fig313.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:NLC511-09001452-67054_%E6%9D%BE%E8%8A%B1%E6%B1%9F%E4%B8%8B%E6%B8%B8%E7%9A%84%E8%B5%AB%E5%93%B2%E6%97%8F%C2%B7%E4%B8%8A%E5%86%8A.pdf",
+      "source": "凌纯声《松花江下游的赫哲族》上册，公共领域扫描，Wikimedia Commons，图313，PDF影像第443页",
+      "license": "Public domain",
+      "figure": "图313",
+      "description": "原书图313中的蝶形花样，包含上下两种对称蝶纹。",
+      "context": "该图直接来自原书扫描，未由现代设计者重新创作。档案以原图版形态保存，图中线条、结构和黑白关系均与扫描原件一致。",
+      "tags": "蝶形花 对称 刺绣",
+      "palette": [
+        "#111111",
+        "#f5f5f2",
+        "#8c2f25",
+        "#24483a"
+      ]
+    },
+    {
+      "id": "BFJ-HZ-314",
+      "code": "BFJ-HZ-314",
+      "name": "蝶形花样（二）",
+      "group": "赫哲族",
+      "type": "蝶形花",
+      "region": "松花江下游",
+      "period": "历史调查图版",
+      "image": "/static/frontend/archive/hezhen-fig314.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:NLC511-09001452-67054_%E6%9D%BE%E8%8A%B1%E6%B1%9F%E4%B8%8B%E6%B8%B8%E7%9A%84%E8%B5%AB%E5%93%B2%E6%97%8F%C2%B7%E4%B8%8A%E5%86%8A.pdf",
+      "source": "凌纯声《松花江下游的赫哲族》上册，公共领域扫描，Wikimedia Commons，图314，PDF影像第443页",
+      "license": "Public domain",
+      "figure": "图314",
+      "description": "原书图314中的蝶形花样，三种不同朝向的蝶形单元。",
+      "context": "该图直接来自原书扫描，未由现代设计者重新创作。档案以原图版形态保存，图中线条、结构和黑白关系均与扫描原件一致。",
+      "tags": "蝶形花 单元 刺绣",
+      "palette": [
+        "#111111",
+        "#f5f5f2",
+        "#8c2f25",
+        "#24483a"
+      ]
+    },
+    {
+      "id": "BFJ-HZ-317",
+      "code": "BFJ-HZ-317",
+      "name": "几何形花样（一）",
+      "group": "赫哲族",
+      "type": "几何花",
+      "region": "松花江下游",
+      "period": "历史调查图版",
+      "image": "/static/frontend/archive/hezhen-fig317.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:NLC511-09001452-67054_%E6%9D%BE%E8%8A%B1%E6%B1%9F%E4%B8%8B%E6%B8%B8%E7%9A%84%E8%B5%AB%E5%93%B2%E6%97%8F%C2%B7%E4%B8%8A%E5%86%8A.pdf",
+      "source": "凌纯声《松花江下游的赫哲族》上册，公共领域扫描，Wikimedia Commons，图317，PDF影像第445页",
+      "license": "Public domain",
+      "figure": "图317",
+      "description": "原书图317中的几何形花样，以三角、交叉和对角线构成。",
+      "context": "该图直接来自原书扫描，未由现代设计者重新创作。档案以原图版形态保存，图中线条、结构和黑白关系均与扫描原件一致。",
+      "tags": "几何花 三角 对角线",
+      "palette": [
+        "#111111",
+        "#f5f5f2",
+        "#8c2f25",
+        "#24483a"
+      ]
+    },
+    {
+      "id": "BFJ-HZ-318",
+      "code": "BFJ-HZ-318",
+      "name": "几何形花样（二）",
+      "group": "赫哲族",
+      "type": "几何花",
+      "region": "松花江下游",
+      "period": "历史调查图版",
+      "image": "/static/frontend/archive/hezhen-fig318.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:NLC511-09001452-67054_%E6%9D%BE%E8%8A%B1%E6%B1%9F%E4%B8%8B%E6%B8%B8%E7%9A%84%E8%B5%AB%E5%93%B2%E6%97%8F%C2%B7%E4%B8%8A%E5%86%8A.pdf",
+      "source": "凌纯声《松花江下游的赫哲族》上册，公共领域扫描，Wikimedia Commons，图318，PDF影像第445页",
+      "license": "Public domain",
+      "figure": "图318",
+      "description": "原书图318中的几何形花样，以连续折线形成重复结构。",
+      "context": "该图直接来自原书扫描，未由现代设计者重新创作。档案以原图版形态保存，图中线条、结构和黑白关系均与扫描原件一致。",
+      "tags": "几何花 折线 连续纹",
+      "palette": [
+        "#111111",
+        "#f5f5f2",
+        "#8c2f25",
+        "#24483a"
+      ]
+    },
+    {
+      "id": "BFJ-HZ-321",
+      "code": "BFJ-HZ-321",
+      "name": "几何形花样（五）",
+      "group": "赫哲族",
+      "type": "几何花",
+      "region": "松花江下游",
+      "period": "历史调查图版",
+      "image": "/static/frontend/archive/hezhen-fig321.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:NLC511-09001452-67054_%E6%9D%BE%E8%8A%B1%E6%B1%9F%E4%B8%8B%E6%B8%B8%E7%9A%84%E8%B5%AB%E5%93%B2%E6%97%8F%C2%B7%E4%B8%8A%E5%86%8A.pdf",
+      "source": "凌纯声《松花江下游的赫哲族》上册，公共领域扫描，Wikimedia Commons，图321，PDF影像第447页",
+      "license": "Public domain",
+      "figure": "图321",
+      "description": "原书图321中的几何形花样，由三角形拼合形成密集结构。",
+      "context": "该图直接来自原书扫描，未由现代设计者重新创作。档案以原图版形态保存，图中线条、结构和黑白关系均与扫描原件一致。",
+      "tags": "几何花 三角 拼合",
+      "palette": [
+        "#111111",
+        "#f5f5f2",
+        "#8c2f25",
+        "#24483a"
+      ]
+    },
+    {
+      "id": "BFJ-HZ-322",
+      "code": "BFJ-HZ-322",
+      "name": "几何形花样（六）",
+      "group": "赫哲族",
+      "type": "几何花",
+      "region": "松花江下游",
+      "period": "历史调查图版",
+      "image": "/static/frontend/archive/hezhen-fig322.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:NLC511-09001452-67054_%E6%9D%BE%E8%8A%B1%E6%B1%9F%E4%B8%8B%E6%B8%B8%E7%9A%84%E8%B5%AB%E5%93%B2%E6%97%8F%C2%B7%E4%B8%8A%E5%86%8A.pdf",
+      "source": "凌纯声《松花江下游的赫哲族》上册，公共领域扫描，Wikimedia Commons，图322，PDF影像第447页",
+      "license": "Public domain",
+      "figure": "图322",
+      "description": "原书图322中的几何形花样，以方框、对角线和三角形重复排列。",
+      "context": "该图直接来自原书扫描，未由现代设计者重新创作。档案以原图版形态保存，图中线条、结构和黑白关系均与扫描原件一致。",
+      "tags": "几何花 方框 重复",
+      "palette": [
+        "#111111",
+        "#f5f5f2",
+        "#8c2f25",
+        "#24483a"
+      ]
+    },
+    {
+      "id": "BFJ-HZ-326",
+      "code": "BFJ-HZ-326",
+      "name": "桦皮方盒四边阳纹花纹（二）",
+      "group": "赫哲族",
+      "type": "桦皮盒纹",
+      "region": "松花江下游",
+      "period": "历史调查图版",
+      "image": "/static/frontend/archive/hezhen-fig326.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:NLC511-09001452-67054_%E6%9D%BE%E8%8A%B1%E6%B1%9F%E4%B8%8B%E6%B8%B8%E7%9A%84%E8%B5%AB%E5%93%B2%E6%97%8F%C2%B7%E4%B8%8A%E5%86%8A.pdf",
+      "source": "凌纯声《松花江下游的赫哲族》上册，公共领域扫描，Wikimedia Commons，图326，PDF影像第451页",
+      "license": "Public domain",
+      "figure": "图326",
+      "description": "原书图326中的桦皮方盒四边阳纹花纹。",
+      "context": "该图直接来自原书扫描，未由现代设计者重新创作。档案以原图版形态保存，图中线条、结构和黑白关系均与扫描原件一致。",
+      "tags": "桦皮盒 阳纹 卷云",
+      "palette": [
+        "#111111",
+        "#f5f5f2",
+        "#8c2f25",
+        "#24483a"
+      ]
+    },
+    {
+      "id": "BFJ-HZ-327",
+      "code": "BFJ-HZ-327",
+      "name": "桦皮圆盒盖面阴线花纹",
+      "group": "赫哲族",
+      "type": "桦皮盒纹",
+      "region": "松花江下游",
+      "period": "历史调查图版",
+      "image": "/static/frontend/archive/hezhen-fig327.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:NLC511-09001452-67054_%E6%9D%BE%E8%8A%B1%E6%B1%9F%E4%B8%8B%E6%B8%B8%E7%9A%84%E8%B5%AB%E5%93%B2%E6%97%8F%C2%B7%E4%B8%8A%E5%86%8A.pdf",
+      "source": "凌纯声《松花江下游的赫哲族》上册，公共领域扫描，Wikimedia Commons，图327，PDF影像第451页",
+      "license": "Public domain",
+      "figure": "图327",
+      "description": "原书图327中的桦皮圆盒盖面阴线花纹，为圆形适合纹样。",
+      "context": "该图直接来自原书扫描，未由现代设计者重新创作。档案以原图版形态保存，图中线条、结构和黑白关系均与扫描原件一致。",
+      "tags": "桦皮盒 阴线 圆形",
+      "palette": [
+        "#111111",
+        "#f5f5f2",
+        "#8c2f25",
+        "#24483a"
+      ]
+    },
+    {
+      "id": "BFJ-HZ-329",
+      "code": "BFJ-HZ-329",
+      "name": "桦皮长盒盖面及盖边花纹",
+      "group": "赫哲族",
+      "type": "桦皮盒纹",
+      "region": "松花江下游",
+      "period": "历史调查图版",
+      "image": "/static/frontend/archive/hezhen-fig329.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:NLC511-09001452-67054_%E6%9D%BE%E8%8A%B1%E6%B1%9F%E4%B8%8B%E6%B8%B8%E7%9A%84%E8%B5%AB%E5%93%B2%E6%97%8F%C2%B7%E4%B8%8A%E5%86%8A.pdf",
+      "source": "凌纯声《松花江下游的赫哲族》上册，公共领域扫描，Wikimedia Commons，图329，PDF影像第453页",
+      "license": "Public domain",
+      "figure": "图329",
+      "description": "原书图329中的桦皮长盒盖面及盖边花纹，包含盖边阳纹和盖面阴点花纹。",
+      "context": "该图直接来自原书扫描，未由现代设计者重新创作。档案以原图版形态保存，图中线条、结构和黑白关系均与扫描原件一致。",
+      "tags": "桦皮盒 长盒 盖边",
+      "palette": [
+        "#111111",
+        "#f5f5f2",
+        "#8c2f25",
+        "#24483a"
+      ]
+    },
+    {
+      "id": "BFJ-HZ-JACKET",
+      "code": "BFJ-HZ-JACKET",
+      "name": "赫哲族鱼皮上衣",
+      "group": "赫哲族",
+      "type": "鱼皮服饰",
+      "region": "黑龙江流域",
+      "period": "传统服饰",
+      "image": "/static/frontend/archive/hezhen-fishskin-jacket.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hezhen_fishskin_jacket.jpg",
+      "source": "上海博物馆藏鱼皮上衣，摄影 Rolfmueller，Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "figure": "实物照片",
+      "description": "传统鱼皮上衣实物照片，可观察鱼皮拼缝与服饰结构。",
+      "context": "照片由 Rolfmueller 拍摄，原始说明记录为上海博物馆展出的那乃族传统鱼皮上衣。",
+      "tags": [
+        "鱼皮",
+        "服饰",
+        "拼缝",
+        "上海博物馆"
+      ],
+      "palette": [
+        "#111111",
+        "#f5f5f2",
+        "#8c2f25",
+        "#24483a"
+      ]
+    },
+    {
+      "id": "BFJ-EZ-EMB",
+      "code": "BFJ-EZ-EMB",
+      "name": "鄂伦春族刺绣",
+      "group": "鄂伦春族",
+      "type": "刺绣",
+      "region": "内蒙古地区",
+      "period": "博物馆藏品",
+      "image": "/static/frontend/archive/oroqen-embroidery.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Orochon_Embroidery_(19792219635).jpg",
+      "source": "内蒙古博物院蒙古族文化展厅藏品，Wikimedia Commons",
+      "license": "CC0",
+      "figure": "实物照片",
+      "description": "鄂伦春族刺绣实物，可观察针脚、色彩和重复图案。",
+      "context": "原始说明记录该实物陈列于内蒙古博物院蒙古族文化展厅。",
+      "tags": [
+        "刺绣",
+        "实物",
+        "内蒙古博物院"
+      ],
+      "palette": [
+        "#111111",
+        "#f5f5f2",
+        "#8c2f25",
+        "#24483a"
+      ]
+    },
+    {
+      "id": "BFJ-EZ-BOX",
+      "code": "BFJ-EZ-BOX",
+      "name": "清代桦树皮盒",
+      "group": "鄂伦春族",
+      "type": "桦皮盒纹",
+      "region": "东北地区",
+      "period": "清代",
+      "image": "/static/frontend/archive/oroqen-birch-box.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qing_Birch_Bark_Box_(9834785126).jpg",
+      "source": "中国国家博物馆藏鄂伦春族清代桦树皮盒，摄影 Gary Todd，Wikimedia Commons",
+      "license": "CC0",
+      "figure": "实物照片",
+      "description": "清代鄂伦春族桦树皮盒实物，盒体可见刻划与拼合结构。",
+      "context": "原始说明记录为中国国家博物馆“古代中国”展览中的鄂伦春族桦树皮盒。",
+      "tags": [
+        "桦树皮",
+        "盒",
+        "清代",
+        "中国国家博物馆"
+      ],
+      "palette": [
+        "#111111",
+        "#f5f5f2",
+        "#8c2f25",
+        "#24483a"
+      ]
+    },
+    {
+      "id": "BFJ-EZ-BUCKET",
+      "code": "BFJ-EZ-BUCKET",
+      "name": "咬合纹桦树皮桶",
+      "group": "鄂伦春族",
+      "type": "桦皮盒纹",
+      "region": "内蒙古地区",
+      "period": "博物馆藏品",
+      "image": "/static/frontend/archive/oroqen-birch-bucket.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%92%AC%E5%90%88%E7%BA%B9%E6%A1%A6%E6%A0%91%E7%9A%AE%E6%A1%B6.jpg",
+      "source": "内蒙古博物院藏咬合纹桦树皮桶，摄影“三猎”，Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "figure": "实物照片",
+      "description": "咬合纹桦树皮桶实物，可观察桶身咬合结构和边缘处理。",
+      "context": "原始说明记录该器物为内蒙古博物院藏品。",
+      "tags": [
+        "桦树皮",
+        "桶",
+        "咬合纹",
+        "内蒙古博物院"
+      ],
+      "palette": [
+        "#111111",
+        "#f5f5f2",
+        "#8c2f25",
+        "#24483a"
+      ]
+    },
+    {
+      "id": "BFJ-EZ-CAP",
+      "code": "BFJ-EZ-CAP",
+      "name": "鄂伦春族狍头帽",
+      "group": "鄂伦春族",
+      "type": "帽饰",
+      "region": "黑龙江地区",
+      "period": "博物馆藏品",
+      "image": "/static/frontend/archive/oroqen-roeskin-cap.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Oroqen_Roeskin_Cap_Collected_by_the_China_(Harbin)_Forest_Museum.jpg",
+      "source": "中国（哈尔滨）森林博物馆藏狍头帽，摄影 Hehua，Wikimedia Commons",
+      "license": "CC BY 4.0",
+      "figure": "实物照片",
+      "description": "鄂伦春族狍头帽实物，以兽皮形态和缝合结构为主要视觉特征。",
+      "context": "原始说明记录该帽为中国（哈尔滨）森林博物馆藏品。",
+      "tags": [
+        "狍头帽",
+        "兽皮",
+        "森林博物馆"
+      ],
+      "palette": [
+        "#111111",
+        "#f5f5f2",
+        "#8c2f25",
+        "#24483a"
+      ]
+    },
+    {
+      "id": "BFJ-DE-EMB",
+      "code": "BFJ-DE-EMB",
+      "name": "达斡尔族丝绣与佩刀",
+      "group": "达斡尔族",
+      "type": "刺绣",
+      "region": "内蒙古地区",
+      "period": "博物馆藏品",
+      "image": "/static/frontend/archive/daur-silk-embroidery.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Daur_Sword_%26_Silk_Embroidery_(19798084261).jpg",
+      "source": "内蒙古博物院蒙古族文化展厅达斡尔族丝绣与佩刀，Wikimedia Commons",
+      "license": "CC0",
+      "figure": "实物照片",
+      "description": "达斡尔族丝绣与佩刀实物，可观察织物纹样和佩饰结构。",
+      "context": "原始说明记录该展品陈列于内蒙古博物院蒙古族文化展厅。",
+      "tags": [
+        "达斡尔族",
+        "丝绣",
+        "佩刀",
+        "内蒙古博物院"
+      ],
+      "palette": [
+        "#111111",
+        "#f5f5f2",
+        "#8c2f25",
+        "#24483a"
+      ]
+    },
+    {
+      "id": "BFJ-MG-EMB",
+      "code": "BFJ-MG-EMB",
+      "name": "蒙古族刺绣",
+      "group": "蒙古族",
+      "type": "刺绣",
+      "region": "内蒙古地区",
+      "period": "博物馆藏品",
+      "image": "/static/frontend/archive/mongol-embroidery.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mongol_Embroidery_(19793866455).jpg",
+      "source": "内蒙古博物院蒙古族文化展厅刺绣，Wikimedia Commons",
+      "license": "CC0",
+      "figure": "实物照片",
+      "description": "蒙古族刺绣实物，可观察盘绕、卷曲和重复针法。",
+      "context": "原始说明记录该实物陈列于内蒙古博物院蒙古族文化展厅。",
+      "tags": [
+        "蒙古族",
+        "刺绣",
+        "盘绣",
+        "内蒙古博物院"
+      ],
+      "palette": [
+        "#111111",
+        "#f5f5f2",
+        "#8c2f25",
+        "#24483a"
+      ]
+    },
+    {
+      "id": "BFJ-MZ-COAT",
+      "code": "BFJ-MZ-COAT",
+      "name": "清代满族女袍团花刺绣",
+      "group": "满族",
+      "type": "刺绣",
+      "region": "北京与东北满族服饰体系",
+      "period": "清（1644—1911）",
+      "image": "/static/frontend/archive/manchu-embroidery-coat.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Manchu_woman%27s_coat.jpg",
+      "source": "上海博物馆藏清代满族女袍，摄影 Alexey Yakovlev，Wikimedia Commons",
+      "license": "CC0",
+      "figure": "实物照片",
+      "description": "清代满族女袍蓝地团花刺绣实物，可观察团花和服饰构图。",
+      "context": "原始说明记录为上海博物馆藏满族女袍，蓝地刺绣团花。",
+      "tags": [
+        "满族",
+        "女袍",
+        "团花",
+        "上海博物馆"
+      ],
+      "palette": [
+        "#111111",
+        "#f5f5f2",
+        "#8c2f25",
+        "#24483a"
+      ]
+    },
+    {
+      "id": "BFJ-TL-RESIDENCE",
+      "code": "BFJ-TL-RESIDENCE",
+      "name": "中东铁路管理局局长官邸旧址",
+      "group": "中东铁路",
+      "type": "建筑装饰",
+      "region": "黑龙江 · 哈尔滨",
+      "period": "近代",
+      "image": "/static/frontend/archive/harbin-railway-residence.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E4%B8%9C%E9%93%81%E8%B7%AF%E7%AE%A1%E7%90%86%E5%B1%80%E5%B1%80%E9%95%BF%E5%AE%98%E9%82%B8%E6%97%A7%E5%9D%80.jpg",
+      "source": "中东铁路管理局局长官邸旧址照片，Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "figure": "建筑照片",
+      "description": "中东铁路时期建筑实例照片，用于记录建筑立面、窗饰和装饰构件。",
+      "context": "该记录为建筑实例，不将照片中的建筑整体直接视为单一纹样。",
+      "tags": [
+        "中东铁路",
+        "哈尔滨",
+        "建筑装饰"
+      ],
+      "palette": [
+        "#111111",
+        "#f5f5f2",
+        "#8c2f25",
+        "#24483a"
+      ]
+    }
+  ]
+}
